@@ -14,7 +14,7 @@
   - 웹 프론트 엔지니어
   - 기간: 2018.08 ~ 2018.12
 
-- [엔씨소프트]
+- [엔씨소프트](http://kr.ncsoft.com/korean/)
   - NLP 센터
   - 웹 개발 인턴
   - 기간: 2018.04 ~ 2018.07
@@ -39,7 +39,7 @@ TypeScript, JavaScript(ES6+), HTML5, CSS3, BEM, Reactive Programming
 
 #### 프레임워크 / 라이브러리
 
-Angular, rxjs, WebAPI, Karma, Jasmine
+Angular, rxjs, Karma, Jasmine
 
 #### 툴 / 데브옵스
 
